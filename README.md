@@ -1,2 +1,2 @@
-# really_sad_metroid.js
+# really_sad_metroid
 jump over a box 
